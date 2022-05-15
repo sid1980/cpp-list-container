@@ -1,0 +1,24 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "ContainerPrj.exe (ContainerPrj\\ContainerPrj.exe)",
+      "name": "ContainerPrj.exe (ContainerPrj\\ContainerPrj.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "ContainerPrj.exe (ContainerPrj\\ContainerPrj.exe)",
+      "name": "ContainerPrj.exe (ContainerPrj\\ContainerPrj.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "",
+      "name": "CMakeLists.txt"
+    }
+  ]
+}
