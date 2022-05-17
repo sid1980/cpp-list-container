@@ -15,3 +15,7 @@ build
 build/*
 ContainerPrj/build/*
 /build/
+
+/Debug/
+*/Debug/*
+Debug
