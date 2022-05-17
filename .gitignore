@@ -19,3 +19,7 @@ ContainerPrj/build/*
 /Debug/
 */Debug/*
 Debug
+
+/.vs/
+*/.vs/*
+.vs
